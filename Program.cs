@@ -40,7 +40,7 @@ void FindInTextFile(string FindName)
     }
     else
     {
-        Console.WriteLine("файл не найден");
+        Console.WriteLine($"файл {filePath} не найден");
     }
 
 
